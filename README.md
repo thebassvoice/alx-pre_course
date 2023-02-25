@@ -1,2 +1,1 @@
-My first readme
-We are learning hard things
+My first readme Updated
